@@ -1,0 +1,8 @@
+opencv-python==4.1.0.25
+PyExecJS==1.5.1
+pymongo==3.7.1
+requests==2.19.1
+selenium==3.14.1
+urllib3==1.23
+validators==0.13.0
+w3lib==1.19.0
